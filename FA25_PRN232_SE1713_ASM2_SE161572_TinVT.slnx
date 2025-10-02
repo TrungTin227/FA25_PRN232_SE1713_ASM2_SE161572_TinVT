@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OEMEVWMS.GraphQLWebAPI.TinVT/OEMEVWMS.GraphQLWebAPI.TinVT.csproj" />
+  <Project Path="OEMEVWMS.Repositories.TinVT/OEMEVWMS.Repositories.TinVT.csproj" />
+  <Project Path="OEMEVWMS.Services.TinVT/OEMEVWMS.Services.TinVT.csproj" />
+</Solution>
